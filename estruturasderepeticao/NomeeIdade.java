@@ -22,6 +22,7 @@ public class NomeeIdade {
 
             System.out.println("Idade: ");
             idade = scan.nextInt();
+
         }
         System.out.println("Continua aqui...");
     }
